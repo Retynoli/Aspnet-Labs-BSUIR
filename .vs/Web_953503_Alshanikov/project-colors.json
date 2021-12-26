@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "321e5d9e-b4e4-4c06-846b-cd9b0a887a32": {
+      "ProjectGuid": "321e5d9e-b4e4-4c06-846b-cd9b0a887a32",
+      "DisplayName": "Web_953503_Alshanikov",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "e7ec00b3-c6f6-4ab5-8ff3-27115ff1e702": {
+      "ProjectGuid": "e7ec00b3-c6f6-4ab5-8ff3-27115ff1e702",
+      "DisplayName": "Web_953503_Alshanikov.blazor.Server",
+      "ColorIndex": 1
+    },
+    "36ac22b9-a4c2-45a3-84c1-826dd67118af": {
+      "ProjectGuid": "36ac22b9-a4c2-45a3-84c1-826dd67118af",
+      "DisplayName": "Web_953503_Alshanikov.blazor.Client",
+      "ColorIndex": 2
+    },
+    "dd304974-e3f9-417f-9e74-b45837d71ba3": {
+      "ProjectGuid": "dd304974-e3f9-417f-9e74-b45837d71ba3",
+      "DisplayName": "Web_953503_Alshanikov.blazor.Shared",
+      "ColorIndex": 3
+    },
+    "fb2dfade-711c-48ef-9999-a71237ef3460": {
+      "ProjectGuid": "fb2dfade-711c-48ef-9999-a71237ef3460",
+      "DisplayName": "Web_953503_Alshanikov.Blazor.Server",
+      "ColorIndex": 4
+    },
+    "1efaccfe-380b-4afa-881f-10338884a79f": {
+      "ProjectGuid": "1efaccfe-380b-4afa-881f-10338884a79f",
+      "DisplayName": "Web_953503_Alshanikov.Blazor.Client",
+      "ColorIndex": 5
+    },
+    "7b3e7c63-a421-4eb4-ae51-d96bbf5599ed": {
+      "ProjectGuid": "7b3e7c63-a421-4eb4-ae51-d96bbf5599ed",
+      "DisplayName": "Web_953503_Alshanikov.Blazor.Shared",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

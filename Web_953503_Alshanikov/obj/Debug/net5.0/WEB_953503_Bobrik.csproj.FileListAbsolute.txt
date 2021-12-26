@@ -1,0 +1,88 @@
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\bin\Debug\net5.0\appsettings.json
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\bin\Debug\net5.0\libman.json
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\bin\Debug\net5.0\WEB_953503_Bobrik.exe
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\bin\Debug\net5.0\WEB_953503_Bobrik.deps.json
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\bin\Debug\net5.0\WEB_953503_Bobrik.runtimeconfig.json
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\bin\Debug\net5.0\WEB_953503_Bobrik.runtimeconfig.dev.json
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\bin\Debug\net5.0\WEB_953503_Bobrik.dll
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\bin\Debug\net5.0\ref\WEB_953503_Bobrik.dll
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\bin\Debug\net5.0\WEB_953503_Bobrik.pdb
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\bin\Debug\net5.0\WEB_953503_Bobrik.Views.dll
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\bin\Debug\net5.0\WEB_953503_Bobrik.Views.pdb
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\obj\Debug\net5.0\WEB_953503_Bobrik.csproj.AssemblyReference.cache
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\obj\Debug\net5.0\WEB_953503_Bobrik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\obj\Debug\net5.0\WEB_953503_Bobrik.AssemblyInfoInputs.cache
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\obj\Debug\net5.0\WEB_953503_Bobrik.AssemblyInfo.cs
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\obj\Debug\net5.0\WEB_953503_Bobrik.csproj.CoreCompileInputs.cache
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\obj\Debug\net5.0\WEB_953503_Bobrik.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\obj\Debug\net5.0\WEB_953503_Bobrik.RazorAssemblyInfo.cache
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\obj\Debug\net5.0\WEB_953503_Bobrik.RazorAssemblyInfo.cs
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\obj\Debug\net5.0\staticwebassets\WEB_953503_Bobrik.StaticWebAssets.Manifest.cache
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\obj\Debug\net5.0\staticwebassets\WEB_953503_Bobrik.StaticWebAssets.xml
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\obj\Debug\net5.0\scopedcss\bundle\WEB_953503_Bobrik.styles.css
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\obj\Debug\net5.0\WEB_953503_Bobrik.TagHelpers.input.cache
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\obj\Debug\net5.0\WEB_953503_Bobrik.TagHelpers.output.cache
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\obj\Debug\net5.0\WEB_953503_Bobrik.RazorCoreGenerate.cache
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\obj\Debug\net5.0\WEB_953503_Bobrik.RazorTargetAssemblyInfo.cache
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\obj\Debug\net5.0\WEB_953503_Bobrik.RazorTargetAssemblyInfo.cs
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\obj\Debug\net5.0\WEB_953503_Bobrik.Views.pdb
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\obj\Debug\net5.0\WEB_953503_Bobrik.dll
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\obj\Debug\net5.0\ref\WEB_953503_Bobrik.dll
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\obj\Debug\net5.0\WEB_953503_Bobrik.pdb
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\obj\Debug\net5.0\WEB_953503_Bobrik.genruntimeconfig.cache
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\obj\Debug\net5.0\WEB_953503_Bobrik.csproj.CopyComplete
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\obj\Debug\net5.0\Razor\Views\Shared\Components\Menu\Default.cshtml.g.cs
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\obj\Debug\net5.0\Razor\Views\Shared\_Layout1.cshtml.g.cs
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\obj\Debug\net5.0\Razor\Views\Shared\_UserPartial.cshtml.g.cs
+C:\Users\Akik\Desktop\ИГИ\WEB_953503_Gritsevich\WEB_953503_Gritsevich\obj\Debug\net5.0\Razor\Views\Shared\Components\Cart\Default.cshtml.g.cs
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\bin\Debug\net5.0\appsettings.json
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\bin\Debug\net5.0\libman.json
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\bin\Debug\net5.0\WEB_953503_Bobrik.StaticWebAssets.xml
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\bin\Debug\net5.0\WEB_953503_Bobrik.exe
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\bin\Debug\net5.0\WEB_953503_Bobrik.deps.json
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\bin\Debug\net5.0\WEB_953503_Bobrik.runtimeconfig.json
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\bin\Debug\net5.0\WEB_953503_Bobrik.runtimeconfig.dev.json
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\bin\Debug\net5.0\WEB_953503_Bobrik.dll
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\bin\Debug\net5.0\ref\WEB_953503_Bobrik.dll
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\bin\Debug\net5.0\WEB_953503_Bobrik.pdb
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\bin\Debug\net5.0\WEB_953503_Bobrik.Views.dll
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\bin\Debug\net5.0\WEB_953503_Bobrik.Views.pdb
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\obj\Debug\net5.0\WEB_953503_Bobrik.csproj.AssemblyReference.cache
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\obj\Debug\net5.0\WEB_953503_Bobrik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\obj\Debug\net5.0\WEB_953503_Bobrik.AssemblyInfoInputs.cache
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\obj\Debug\net5.0\WEB_953503_Bobrik.AssemblyInfo.cs
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\obj\Debug\net5.0\WEB_953503_Bobrik.csproj.CoreCompileInputs.cache
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\obj\Debug\net5.0\WEB_953503_Bobrik.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\obj\Debug\net5.0\WEB_953503_Bobrik.RazorAssemblyInfo.cache
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\obj\Debug\net5.0\WEB_953503_Bobrik.RazorAssemblyInfo.cs
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\obj\Debug\net5.0\scopedcss\bundle\WEB_953503_Bobrik.styles.css
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\obj\Debug\net5.0\staticwebassets\WEB_953503_Bobrik.StaticWebAssets.Manifest.cache
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\obj\Debug\net5.0\WEB_953503_Bobrik.TagHelpers.input.cache
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\obj\Debug\net5.0\WEB_953503_Bobrik.TagHelpers.output.cache
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\obj\Debug\net5.0\WEB_953503_Bobrik.RazorCoreGenerate.cache
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\obj\Debug\net5.0\Razor\Views\Shared\Components\Cart\Default.cshtml.g.cs
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\obj\Debug\net5.0\Razor\Views\Shared\Components\Menu\Default.cshtml.g.cs
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\obj\Debug\net5.0\Razor\Views\Shared\_Layout1.cshtml.g.cs
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\obj\Debug\net5.0\Razor\Views\Shared\_UserPartial.cshtml.g.cs
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\obj\Debug\net5.0\WEB_953503_Bobrik.RazorTargetAssemblyInfo.cache
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\obj\Debug\net5.0\WEB_953503_Bobrik.RazorTargetAssemblyInfo.cs
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\obj\Debug\net5.0\WEB_953503_Bobrik.Views.pdb
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\obj\Debug\net5.0\WEB_953503_Bobrik.dll
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\obj\Debug\net5.0\ref\WEB_953503_Bobrik.dll
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\obj\Debug\net5.0\WEB_953503_Bobrik.pdb
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\obj\Debug\net5.0\WEB_953503_Bobrik.genruntimeconfig.cache
+C:\Users\retyn\Downloads\Telegram Desktop\WEB_953503_Bobrik\WEB_953503_Bobrik\obj\Debug\net5.0\WEB_953503_Bobrik.csproj.CopyComplete

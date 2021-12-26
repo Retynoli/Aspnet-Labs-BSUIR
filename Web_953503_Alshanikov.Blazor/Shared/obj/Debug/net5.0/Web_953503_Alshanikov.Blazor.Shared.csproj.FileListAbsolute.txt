@@ -1,0 +1,12 @@
+C:\Users\retyn\Documents\University\ASPNet\Web_953503_Alshanikov\Web_953503_Alshanikov.Blazor\Shared\bin\Debug\net5.0\Web_953503_Alshanikov.Blazor.Shared.deps.json
+C:\Users\retyn\Documents\University\ASPNet\Web_953503_Alshanikov\Web_953503_Alshanikov.Blazor\Shared\bin\Debug\net5.0\Web_953503_Alshanikov.Blazor.Shared.dll
+C:\Users\retyn\Documents\University\ASPNet\Web_953503_Alshanikov\Web_953503_Alshanikov.Blazor\Shared\bin\Debug\net5.0\ref\Web_953503_Alshanikov.Blazor.Shared.dll
+C:\Users\retyn\Documents\University\ASPNet\Web_953503_Alshanikov\Web_953503_Alshanikov.Blazor\Shared\bin\Debug\net5.0\Web_953503_Alshanikov.Blazor.Shared.pdb
+C:\Users\retyn\Documents\University\ASPNet\Web_953503_Alshanikov\Web_953503_Alshanikov.Blazor\Shared\obj\Debug\net5.0\Web_953503_Alshanikov.Blazor.Shared.csproj.AssemblyReference.cache
+C:\Users\retyn\Documents\University\ASPNet\Web_953503_Alshanikov\Web_953503_Alshanikov.Blazor\Shared\obj\Debug\net5.0\Web_953503_Alshanikov.Blazor.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\retyn\Documents\University\ASPNet\Web_953503_Alshanikov\Web_953503_Alshanikov.Blazor\Shared\obj\Debug\net5.0\Web_953503_Alshanikov.Blazor.Shared.AssemblyInfoInputs.cache
+C:\Users\retyn\Documents\University\ASPNet\Web_953503_Alshanikov\Web_953503_Alshanikov.Blazor\Shared\obj\Debug\net5.0\Web_953503_Alshanikov.Blazor.Shared.AssemblyInfo.cs
+C:\Users\retyn\Documents\University\ASPNet\Web_953503_Alshanikov\Web_953503_Alshanikov.Blazor\Shared\obj\Debug\net5.0\Web_953503_Alshanikov.Blazor.Shared.csproj.CoreCompileInputs.cache
+C:\Users\retyn\Documents\University\ASPNet\Web_953503_Alshanikov\Web_953503_Alshanikov.Blazor\Shared\obj\Debug\net5.0\Web_953503_Alshanikov.Blazor.Shared.dll
+C:\Users\retyn\Documents\University\ASPNet\Web_953503_Alshanikov\Web_953503_Alshanikov.Blazor\Shared\obj\Debug\net5.0\ref\Web_953503_Alshanikov.Blazor.Shared.dll
+C:\Users\retyn\Documents\University\ASPNet\Web_953503_Alshanikov\Web_953503_Alshanikov.Blazor\Shared\obj\Debug\net5.0\Web_953503_Alshanikov.Blazor.Shared.pdb

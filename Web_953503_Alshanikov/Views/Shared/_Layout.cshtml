@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Web_953503_Alshanikov</title>
+    <link rel="stylesheet" href="~/lib/font-awesome/css/all.min.css" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Web_953503_Alshanikov.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <div class="container">
+            <span class="nav-color">
+                <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #343a40;">
+                    <a class="navbar-brand" href="https://drive.google.com/file/d/1U3ROn5Ke8BBXFysHO9AziKeNuJCUVCsm/view?usp=sharing">85350003</a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+
+                    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                        <div class="navbar-nav">
+                           @await Component.InvokeAsync("Menu")
+                        </div>
+                    </div>
+
+                    <partial name="_UserPartial" />
+                                        
+                </nav>
+            </span>
+        </div>
+    </header>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer>
+        <div class="container">
+            <span class="nav-color">
+                <div class="navbar navbar-dark navbar-expand-md bg-dark">
+                    <div class="navbar-nav ml-auto">
+                        <a class="nav-item nav-link" href="http://www.facebook.com">
+                            <i class="fab fa-facebook-f fa-2x"></i>
+                        </a>
+                        <a class="nav-item nav-link" href="http://www.vk.com">
+                            <i class="fab fa-vk fa-2x"></i>
+                        </a>
+                        <a class="nav-item nav-link" href="http://www.twitter.com">
+                            <i class="fab fa-twitter fa-2x"></i>
+                        </a>
+                    </div>
+                </div>
+
+            </span>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

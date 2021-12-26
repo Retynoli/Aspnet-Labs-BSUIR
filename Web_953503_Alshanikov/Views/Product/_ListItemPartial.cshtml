@@ -1,0 +1,32 @@
+﻿@using Microsoft.AspNetCore.Http
+@using Web_953503_Alshanikov.Entities
+
+@model Dish
+@{ // Получение текущего адреса
+        HttpRequest request = ViewContext.HttpContext.Request;
+        string  returnUrl = request.Path + request.QueryString.ToUriComponent();
+}
+<div class='card m-2 p-1 text-center col-4'>
+    <img class="card-img-top" src="~/Images/@Model.Image" alt='NoImage' />
+    <div class="card-body">
+        <h5 class="card-title">@Model.DishName</h5>
+        <p class="card-text">@Model.Description</p>
+        <div class="card-text badge badge-secondary">
+            <h6>@Model.Calories калорий</h6>
+        </div>
+    @*@{ // Получение текущего адреса
+        HttpRequest request = ViewContext.HttpContext.Request;
+        string  returnUrl = request.Path + request.QueryString.ToUriComponent();
+    }*@
+        <!--Разметка кнопки добавления в корзину-->
+        <p class="mt-2">
+            <a asp-action="Add"
+               asp-controller="Cart"
+               asp-route-id="@Model.DishId"
+               asp-route-returnUrl="@returnUrl"
+               class="btn btn-primary">
+                <i class="fa fa-shopping-cart"></i> В корзину
+            </a>
+        </p>
+    </div>
+</div>
